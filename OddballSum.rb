@@ -1,5 +1,7 @@
-// Write a function oddball_sum(numbers), which takes in an array
-// of integers and returns the sum of all the odd elements.
+=begin
+Write a function oddball_sum(numbers), which takes in an array
+of integers and returns the sum of all the odd elements.
+=end
 
 def oddball_sum(numbers)
   sum = 0
